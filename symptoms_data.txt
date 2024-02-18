@@ -1,0 +1,14 @@
+So we have gotten these results of a dog from the owner and we want you to figure out what is wrong with the dog. Figure out the health status of the dog and the disease it may or not haveBreed: Labrador
+Color: White
+Size Standing (inches): 75
+Temperament: Sad
+Weight (lbs): 168
+Energy Level(1 - low 5- high ): 2
+Heart Rate(1 - low 3- high ): 1
+Respiratory Rate: 3
+Temperature (1 - low, 2 - good, 3- high ): 1
+Coat Condition: Shedding
+Appetite: Low
+Thirst: High
+Behavior Change: Lazy
+Eye Symptoms: Red

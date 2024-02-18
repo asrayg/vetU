@@ -1,0 +1,20 @@
+Figure out what disease or sickness the dog has based on the description of appearance.
+breed: Golden Retriever
+color: Yellow
+size: 20
+temperament: rough
+weight: 41
+energy_level: 3
+heart_rate: 
+respiratory_rate: 2
+body_temperature: 2
+coat_condition: bad
+mobility: bad
+appetite: bad
+thirst: bad
+behavioral_changes: bad
+eyes: red
+ears: dirty
+urination: less
+defecation: less
+submit: Submit
